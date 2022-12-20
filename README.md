@@ -1,7 +1,10 @@
 # WWDC
-# 스터디 팀원
-> 팀원: [Derrick](https://github.com/derrickkim0109), [bard](https://github.com/bar-d), [bory](https://github.com/yusw10)
 
+## 🫂 팀 소개
+
+|[Derrickkim](https://github.com/derrickkim0109)|[bar-d](https://github.com/bar-d)|[bory](https://github.com/yusw10)|
+|:--------:|:--------:|:--------:|
+|<img src="https://avatars.githubusercontent.com/u/59466342?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/92622931?v=4" width=200>|<img width="260" alt="스크린샷 2022-12-20 오후 3 25 41" src="https://user-images.githubusercontent.com/59466342/208598265-e5c46a69-d7b2-4968-b183-e629a222b58f.png" width=200>|
 
 # Standard
 
