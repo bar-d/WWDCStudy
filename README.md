@@ -1,4 +1,7 @@
 # WWDC
+# 스터디 팀원
+> 팀원: [Derrick](https://github.com/derrickkim0109), [bard](https://github.com/bar-d), [bory](https://github.com/yusw10)
+
 
 # Standard
 
