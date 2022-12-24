@@ -28,7 +28,7 @@
 ## ToDo
 
 ```
-2022-12-19 ~ 2022-12-24 2015년 Mysteries of Auto Layout, Part 1 - WWDC15 - Videos - Apple Developer
+2022-12-26 ~ 2022-12-31 2015년 Building Responsive and Efficient Apps with GCD Developer
 ```
 
 ### 2015
@@ -53,10 +53,12 @@
     - [WWDC 18 - High Performance Auto Layout](https://developer.apple.com/videos/play/wwdc2018/220/)
 
 ---
-### 2016
-### UIKit, Protocol Oriented Programming
+
+### GCD
 - [ ] Completed
-    - [Protocol and Value Oriented Programming in UIKit Apps - WWDC16 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2016/419/)
+    - [Building Responsive and Efficient Apps with GCD](https://developer.apple.com/videos/play/wwdc2015/718/)
+
+
 
 ### 2019
 
@@ -73,9 +75,6 @@
 
 [App Thinning in Xcode - WWDC15 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2015/404/)
 
-### GCD
-
-[Building Responsive and Efficient Apps with GCD - WWDC15 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2015/718/)
 
 ### Swift Performance
 
